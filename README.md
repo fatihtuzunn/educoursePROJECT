@@ -1,3 +1,3 @@
 # educoursePROJECT
 
-![asas](/Screenshot (2).png)
+![Project Image](/Screenshot.png)
